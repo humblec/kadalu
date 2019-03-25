@@ -1,0 +1,20 @@
+Kadalu Maintainers
+=====================
+
+The intention of this file is not to establish who owns what portions of the
+code base, but to provide a set of names that developers can consult when they
+have a question about a particular subset and also to provide a set of names
+to be CC'd when submitting a patch to obtain appropriate review.
+
+In general, if you have a question about inclusion of a patch, you can raise
+an issues in our github page, and not any specific individual privately.
+
+Descriptions of section entries:
+    M: Main contact that knows and takes care of this area
+    P: Peer for a component
+
+
+General Project Architects
+--------------------------
+M: Aravinda VK <mail@aravindavk.in>
+P: Amar Tumballi <amarts@gmail.com>
